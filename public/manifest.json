@@ -1,0 +1,26 @@
+{
+  "name": "LMS",
+  "short_name": "LMS",
+  "background_color": "#FFFFFF",
+  "theme_color": "#8854d0",
+  "description": "The best software LMS",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/img/icon144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/img/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/img/icon192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
