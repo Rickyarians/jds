@@ -2,10 +2,7 @@
 
 ## Pages
 
-- grid => localhost:3000/layout
-- list => localhost:3000/list
-- schedule => localhost:3000/schedule
-
+- form => localhost:3000/form
 
 ## Tech Stack
 
@@ -23,8 +20,8 @@ follow these steps to install
 ### Frontend
 
 ```bash
-git clone https://github.com/Rickyarians/Boilerplate.git
-cd Boilerplate
+git clone https://github.com/Rickyarians/jds.git
+cd jds
 npm install
 npm run dev
 ```
